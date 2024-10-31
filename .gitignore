@@ -1,0 +1,7 @@
+b.py
+output.txt
+*export.*
+env/
+dist/
+build/
+*.spec

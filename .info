@@ -1,0 +1,2 @@
+PYTHON_VERSION=3.13.0
+ENV_CREATION="python -m venv env"
